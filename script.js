@@ -5,3 +5,4 @@ function calcSum() {
   document.getElementById("result").value = sum; //display result with the third variable
 }
 //comment 1
+//comment 2
